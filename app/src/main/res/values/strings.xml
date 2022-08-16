@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Calculadora Custo Beneficio</string>
+    <string name="app_name">CalculadoraCustoBeneficio</string>
+    <string name="bem_vindo_calculadora_custo_beneficio">Bem vindo à Calculadora Custo Beneficio</string>
+    <string name="digite_a_marca_do1_produto">Digite a marca do 1 produto:</string>
+    <string name="digite_a_marca_do2_produto">Digite a marca do 2 produto:</string>
+    <string name="preco">Preço:</string>
+    <string name="tamanho_ex_200ml">Tamanho: Ex 200ml</string>
+    <string name="calcular">Calcular</string>
+    <string name="digite_seu_nome">Digite seu nome:</string>
 </resources>
